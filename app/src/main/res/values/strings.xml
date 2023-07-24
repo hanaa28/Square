@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Square</string>
+    <string name="login"> Login </string>
+    <string name="sign"> sign </string>
+    <string name="enter_personal_perfoile"> Enter to your personal profile.com and follow. </string>
+    <string name="enter_Sign">Create your personal profile.com and follow.</string>
+    <string name="phone_number">Phone Number </string>
+    <string name="password">password </string>
+    <string name="email">email </string>
+    <string name="city">city </string>
+</resources>
